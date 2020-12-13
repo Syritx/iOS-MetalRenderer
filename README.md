@@ -1,2 +1,2 @@
 # iOS-MetalRenderer
-triangle renderer iOS in swift
+triangle renderer for iOS in swift
